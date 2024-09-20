@@ -11,3 +11,7 @@ while True:
 			print(str(b))
 	except EOFError:
 		exit()
+
+
+
+
