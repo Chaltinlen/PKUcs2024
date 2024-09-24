@@ -1,6 +1,5 @@
 s = list(input().lower())
-#print(s)
 for letter in s:
-	if letter == 'a' or letter == 'e' or letter == 'i' or letter == 'o' or letter == 'u':
+	if letter == 'a' or letter == 'e' or letter == 'i' or letter == 'o' or letter == 'u' or letter == 'y':
 		continue
 	print('.'+letter, end = '')
