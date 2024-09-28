@@ -1,8 +1,7 @@
-n = int(input())
-sum = 0
-string = []
-for i in range(0, n):
-	string.append(input())
-	sum += (string[i].count("###") - 2 * string[i].count("### ###"))
-
-print(str(int(sum / 2)))
+M, L = map(int, input().split())
+trees = [True for i in range(M + 1)]
+for i in range(L):
+	a, b = map(int, input().split())
+	for ele in range(a, b + 1):
+		trees[ele] = False
+print(trees.count(True))
