@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dafb10bf059e7361",
+            "id": "7d150b855f762c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/20241119.md",
+                "file": "homework/20241205.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20241119"
+              "title": "20241205"
+            }
+          },
+          {
+            "id": "a8058edf2abc9ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "answers/2020fall_cs101.openjudge.cn_problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2020fall_cs101.openjudge.cn_problems"
+            }
+          },
+          {
+            "id": "d5240b83d09e9225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记.md"
+                "file": "Cheatsheet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 课堂笔记"
+              "title": "Outline of Cheatsheet"
             }
           }
         ],
@@ -163,45 +192,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dafb10bf059e7361",
+  "active": "d5240b83d09e9225",
   "lastOpenFiles": [
-    "homework/20241119.pdf",
-    "pics/SY-539.png",
-    "pics/LC-62.png",
-    "pics/SY-316.png",
-    "pics/OJ-04123.png",
-    "pics/OJ-19930.png",
-    "pics/OJ18160.png",
-    "codes/SY539.py",
-    "codes/SY316.py",
-    "课堂笔记.md",
-    "answers/2020fall_cs101.openjudge.cn_problems.md",
-    "class/week5_dawn.pdf",
-    "homework/20241013.md",
-    "class/算法基础与在线实践.pdf",
-    "homework/20241119.md",
-    "codes/LC62.py",
-    "codes/OJ04123.py",
-    "codes/OJ19930.py",
-    "codes/OJ18160.py",
-    "homework/20241112.pdf",
-    "美国：兴起的帝国.md",
-    "homework/20241112.md",
-    "pics/OJ-02287.png",
-    "pics/CF-455A.png",
-    "pics/OJ-26976.png",
-    "pics/OJ-29676.png",
-    "answers/2020fall_cs101.openjudge.cn_problems.pdf",
-    "answers/2020fall_Codeforces_problems.md",
-    "注意点.md",
-    "出过的错.md",
-    "homework/20241107.md",
+    "Cheatsheet.md",
+    "class/20241203_knowledgeGraph_cs101-AlgoDS.pdf",
+    "Cheatsheet.pdf",
+    "homework/20241217.md",
+    "class/20241217_programming_practice.pdf",
+    "class/课堂笔记.md",
+    "class/20241119_searching.pdf",
     "homework/20241022.md",
-    "homework/20240920.md",
-    "f.md",
     "homework/20241029.md",
+    "homework/20241210.md",
+    "homework/20241210.pdf",
+    "answers/2020fall_cs101.openjudge.cn_problems.md",
+    "homework/20241205.md",
+    "pics/ASCII.png",
+    "ASCII.png",
+    "Pasted image 20241224161646.png",
+    "codes/OJ07622.py",
+    "class/20241022_interval_sorting_monotonicStack.pdf",
+    "class/20241029_recursion.pdf",
+    "class/20241105_dp.pdf",
+    "class/20241112_SegmentTree_BIT.pdf",
+    "answers/2020fall_Codeforces_problems.md",
+    "homework/20241126.md",
+    "homework/20241119.md",
+    "homework/20241112.md",
+    "homework/20241107.md",
     "homework/20241015.md",
+    "homework/20241013.md",
     "homework/20240924.md",
+    "Pasted image 20241223105252.png",
+    "pics/中国剩余定理.png",
+    "注意点.md",
+    "pics/OJ-08210.png",
+    "pics/蛇年Logo.jpg",
+    "class/written_exam_20241210.md",
+    "pics/OJ-27373.png",
+    "pics/OJ-02811.png",
+    "pics/OJ-25572.png",
+    "homework/20240920.md",
+    "出过的错.md",
+    "homework/assignmentD.md",
+    "美国：兴起的帝国.md",
+    "f.md",
     "Untitled.canvas",
     "2024-10-29.md",
     "2024-10-26.md"
