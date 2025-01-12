@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d150b855f762c3c",
+            "id": "f50c8b51b7ca4f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/20241205.md",
+                "file": "homework/20241217.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20241205"
+              "title": "20241217"
             }
           },
           {
-            "id": "a8058edf2abc9ea9",
+            "id": "21eff14f0c8f21d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "answers/2020fall_cs101.openjudge.cn_problems.md",
+                "file": "20240111.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2020fall_cs101.openjudge.cn_problems"
-            }
-          },
-          {
-            "id": "d5240b83d09e9225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheatsheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "20240111"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,29 +178,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5240b83d09e9225",
+  "active": "5fea1229ae538ffd",
   "lastOpenFiles": [
+    "homework/20241217.md",
+    "20240111.md",
+    "class/课堂笔记.md",
+    "class/written_exam_20241210.pdf",
+    "class/计算机科学导论（第4版） (【美】贝赫鲁兹·佛罗赞 著 吕云翔 杨洪洋 曾洪立 等译) (Z-Library).pdf",
+    "homework/20241205.md",
+    "answers/2020fall_cs101.openjudge.cn_problems.md",
     "Cheatsheet.md",
     "class/20241203_knowledgeGraph_cs101-AlgoDS.pdf",
     "Cheatsheet.pdf",
-    "homework/20241217.md",
     "class/20241217_programming_practice.pdf",
-    "class/课堂笔记.md",
     "class/20241119_searching.pdf",
     "homework/20241022.md",
     "homework/20241029.md",
     "homework/20241210.md",
     "homework/20241210.pdf",
-    "answers/2020fall_cs101.openjudge.cn_problems.md",
-    "homework/20241205.md",
     "pics/ASCII.png",
     "ASCII.png",
     "Pasted image 20241224161646.png",
     "codes/OJ07622.py",
     "class/20241022_interval_sorting_monotonicStack.pdf",
     "class/20241029_recursion.pdf",
-    "class/20241105_dp.pdf",
-    "class/20241112_SegmentTree_BIT.pdf",
     "answers/2020fall_Codeforces_problems.md",
     "homework/20241126.md",
     "homework/20241119.md",
