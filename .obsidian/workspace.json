@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240111.md",
+                "file": "homework/20250111.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20240111"
+              "title": "20250111"
             }
           }
         ],
@@ -178,10 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fea1229ae538ffd",
+  "active": "21eff14f0c8f21d7",
   "lastOpenFiles": [
+    "homework/20250111.pdf",
+    "Cheatsheet.pdf",
+    "homework/20250111.md",
+    "pics/Cheatsheet.png",
+    "pics/github仓库.png",
     "homework/20241217.md",
-    "20240111.md",
     "class/课堂笔记.md",
     "class/written_exam_20241210.pdf",
     "class/计算机科学导论（第4版） (【美】贝赫鲁兹·佛罗赞 著 吕云翔 杨洪洋 曾洪立 等译) (Z-Library).pdf",
@@ -189,7 +193,6 @@
     "answers/2020fall_cs101.openjudge.cn_problems.md",
     "Cheatsheet.md",
     "class/20241203_knowledgeGraph_cs101-AlgoDS.pdf",
-    "Cheatsheet.pdf",
     "class/20241217_programming_practice.pdf",
     "class/20241119_searching.pdf",
     "homework/20241022.md",
@@ -217,15 +220,12 @@
     "pics/蛇年Logo.jpg",
     "class/written_exam_20241210.md",
     "pics/OJ-27373.png",
-    "pics/OJ-02811.png",
-    "pics/OJ-25572.png",
     "homework/20240920.md",
     "出过的错.md",
     "homework/assignmentD.md",
     "美国：兴起的帝国.md",
     "f.md",
     "Untitled.canvas",
-    "2024-10-29.md",
-    "2024-10-26.md"
+    "2024-10-29.md"
   ]
 }
